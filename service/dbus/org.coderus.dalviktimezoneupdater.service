@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.coderus.dalviktimezoneupdater
+Interface=org.coderus.dalviktimezoneupdater
+Exec=/usr/bin/dalvik-timezone-updater-service

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=dalvik-timezone-updater
+Exec=dalvik-timezone-updater
+Name=Dalvik Timezone Updater
+
